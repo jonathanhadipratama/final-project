@@ -1,5 +1,7 @@
 # Hotel Price Prediction and Recommendation Content Based with Clustering and Context Analysis using Airbnb Singapore Data
-![logo](https://seeklogo.com/images/A/airbnb-logo-7F4086530F-seeklogo.com.png)
+<p align="center">
+  <img width="460" height="300" src="https://seeklogo.com/images/A/airbnb-logo-7F4086530F-seeklogo.com.png">
+</p>
 ## Background
 I chose this topic for my final project because I want to increase the customer's experience while using our application. frequently, customers are confused when they need to choose a hotel to stay in. With the recommender system, the application owner can help consumers by offering similar products to the customer so they have more options and can increase the chance of customers to get suitable products. as a result, they will be satisfied with our company's performance and will back to us again.
 
